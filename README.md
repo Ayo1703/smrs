@@ -54,3 +54,7 @@ Deployment & Maintenance
 
   Conclusion
   The Student Result Management System (SRMS) demonstrates a simple, clear SDLC and a fully functional Python-only implementation, making it suitable for academic submission and first-year Software Engineering assessment.
+
+  Buraimoh Ayoola
+  Software Engineering
+  24/15240
